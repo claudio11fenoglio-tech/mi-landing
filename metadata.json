@@ -1,0 +1,6 @@
+{
+  "name": "De la idea al cierre - Método de Planificación Docente",
+  "description": "Landing page de alta conversión para capacitación docente en diseño de situaciones problemáticas, instrumentos de evaluación y retroalimentación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
